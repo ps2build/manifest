@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "components": {
+    "ps2build": {
+      "tag": "v2026.11.06",
+      "assets": [
+        {
+          "name": "ps2build-v2026.11.06-darwin-amd64",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.06/ps2build-v2026.11.06-darwin-amd64"
+        },
+        {
+          "name": "ps2build-v2026.11.06-darwin-arm64",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.06/ps2build-v2026.11.06-darwin-arm64"
+        },
+        {
+          "name": "ps2build-v2026.11.06-linux-amd64",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.06/ps2build-v2026.11.06-linux-amd64"
+        },
+        {
+          "name": "ps2build-v2026.11.06-windows-amd64.exe",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.06/ps2build-v2026.11.06-windows-amd64.exe"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.06/SHA256SUMS"
+        }
+      ]
+    },
+    "toolchain": {
+      "tag": "v2026.11.04",
+      "assets": [
+        {
+          "name": "ps2-toolchain-2026.11.04-darwin-arm64.zip",
+          "url": "https://github.com/ps2build/toolchain/releases/download/v2026.11.04/ps2-toolchain-2026.11.04-darwin-arm64.zip"
+        },
+        {
+          "name": "ps2-toolchain-2026.11.04-linux-amd64.zip",
+          "url": "https://github.com/ps2build/toolchain/releases/download/v2026.11.04/ps2-toolchain-2026.11.04-linux-amd64.zip"
+        },
+        {
+          "name": "ps2-toolchain-2026.11.04-windows-amd64.zip",
+          "url": "https://github.com/ps2build/toolchain/releases/download/v2026.11.04/ps2-toolchain-2026.11.04-windows-amd64.zip"
+        }
+      ]
+    },
+    "llvm-toolchain": {
+      "tag": "v2026.11.05",
+      "assets": [
+        {
+          "name": "ps2-llvm-toolchain-2026.11.05-darwin-arm64.zip",
+          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.05/ps2-llvm-toolchain-2026.11.05-darwin-arm64.zip"
+        },
+        {
+          "name": "ps2-llvm-toolchain-2026.11.05-linux-amd64.zip",
+          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.05/ps2-llvm-toolchain-2026.11.05-linux-amd64.zip"
+        },
+        {
+          "name": "ps2-llvm-toolchain-2026.11.05-windows-amd64.zip",
+          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.05/ps2-llvm-toolchain-2026.11.05-windows-amd64.zip"
+        }
+      ]
+    },
+    "ninja": {
+      "tag": "v1.13.2",
+      "assets": [
+        {
+          "name": "ninja-v1.13.2-darwin-arm64.zip",
+          "url": "https://github.com/ps2build/ninja/releases/download/v1.13.2/ninja-v1.13.2-darwin-arm64.zip"
+        },
+        {
+          "name": "ninja-v1.13.2-linux-amd64.zip",
+          "url": "https://github.com/ps2build/ninja/releases/download/v1.13.2/ninja-v1.13.2-linux-amd64.zip"
+        },
+        {
+          "name": "ninja-v1.13.2-windows-amd64.zip",
+          "url": "https://github.com/ps2build/ninja/releases/download/v1.13.2/ninja-v1.13.2-windows-amd64.zip"
+        }
+      ]
+    },
+    "tools": {
+      "tag": "v2026.11.04",
+      "assets": [
+        {
+          "name": "tools-v2026.11.04-darwin-arm64.zip",
+          "url": "https://github.com/ps2build/tools/releases/download/v2026.11.04/tools-v2026.11.04-darwin-arm64.zip"
+        },
+        {
+          "name": "tools-v2026.11.04-linux-amd64.zip",
+          "url": "https://github.com/ps2build/tools/releases/download/v2026.11.04/tools-v2026.11.04-linux-amd64.zip"
+        },
+        {
+          "name": "tools-v2026.11.04-windows-amd64.zip",
+          "url": "https://github.com/ps2build/tools/releases/download/v2026.11.04/tools-v2026.11.04-windows-amd64.zip"
+        }
+      ]
+    },
+    "vcl": {
+      "tag": "v2026.11.04",
+      "assets": [
+        {
+          "name": "vcl-v2026.11.04-darwin-arm64.zip",
+          "url": "https://github.com/ps2build/vcl/releases/download/v2026.11.04/vcl-v2026.11.04-darwin-arm64.zip"
+        },
+        {
+          "name": "vcl-v2026.11.04-linux-amd64.zip",
+          "url": "https://github.com/ps2build/vcl/releases/download/v2026.11.04/vcl-v2026.11.04-linux-amd64.zip"
+        },
+        {
+          "name": "vcl-v2026.11.04-windows-amd64.zip",
+          "url": "https://github.com/ps2build/vcl/releases/download/v2026.11.04/vcl-v2026.11.04-windows-amd64.zip"
+        }
+      ]
+    },
+    "cmake": {
+      "tag": "v2026.11.04",
+      "assets": [
+        {
+          "name": "cmake-v2026.11.04.zip",
+          "url": "https://github.com/ps2build/cmake/releases/download/v2026.11.04/cmake-v2026.11.04.zip"
+        }
+      ]
+    },
+    "sdk-core": {
+      "tag": "v2026.11.05",
+      "assets": [
+        {
+          "name": "sdk-core-v2026.11.05-gcc.zip",
+          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.05/sdk-core-v2026.11.05-gcc.zip"
+        },
+        {
+          "name": "sdk-core-v2026.11.05-llvm.zip",
+          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.05/sdk-core-v2026.11.05-llvm.zip"
+        }
+      ]
+    },
+    "sdk-world": {
+      "tag": "v2026.11.05",
+      "assets": [
+        {
+          "name": "sdk-world-v2026.11.05-gcc.zip",
+          "url": "https://github.com/ps2build/sdk-world/releases/download/v2026.11.05/sdk-world-v2026.11.05-gcc.zip"
+        },
+        {
+          "name": "sdk-world-v2026.11.05-llvm.zip",
+          "url": "https://github.com/ps2build/sdk-world/releases/download/v2026.11.05/sdk-world-v2026.11.05-llvm.zip"
+        }
+      ]
+    }
+  }
+}
