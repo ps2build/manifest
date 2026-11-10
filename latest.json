@@ -121,15 +121,15 @@
       ]
     },
     "sdk-core": {
-      "tag": "v2026.11.05",
+      "tag": "v2026.11.10",
       "assets": [
         {
-          "name": "sdk-core-v2026.11.05-gcc.zip",
-          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.05/sdk-core-v2026.11.05-gcc.zip"
+          "name": "sdk-core-v2026.11.10-gcc.zip",
+          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.10/sdk-core-v2026.11.10-gcc.zip"
         },
         {
-          "name": "sdk-core-v2026.11.05-llvm.zip",
-          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.05/sdk-core-v2026.11.05-llvm.zip"
+          "name": "sdk-core-v2026.11.10-llvm.zip",
+          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.10/sdk-core-v2026.11.10-llvm.zip"
         }
       ]
     },
