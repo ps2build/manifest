@@ -3,7 +3,7 @@
 set -eu
 
 owner="${MANIFEST_OWNER:-ps2build}"
-components="ps2build toolchain llvm-toolchain ninja tools vcl cmake sdk-core sdk-world"
+components="ps2build toolchain llvm-toolchain ninja tools vcl cmake sdk-core sdk-world ogg vorbis"
 out="${1:-latest.json}"
 
 tmp="$(mktemp)"
