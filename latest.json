@@ -121,15 +121,15 @@
       ]
     },
     "sdk-core": {
-      "tag": "v2026.11.10",
+      "tag": "v2026.11.11",
       "assets": [
         {
-          "name": "sdk-core-v2026.11.10-gcc.zip",
-          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.10/sdk-core-v2026.11.10-gcc.zip"
+          "name": "sdk-core-v2026.11.11-gcc.zip",
+          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.11/sdk-core-v2026.11.11-gcc.zip"
         },
         {
-          "name": "sdk-core-v2026.11.10-llvm.zip",
-          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.10/sdk-core-v2026.11.10-llvm.zip"
+          "name": "sdk-core-v2026.11.11-llvm.zip",
+          "url": "https://github.com/ps2build/sdk-core/releases/download/v2026.11.11/sdk-core-v2026.11.11-llvm.zip"
         }
       ]
     },
@@ -143,6 +143,32 @@
         {
           "name": "sdk-world-v2026.11.05-llvm.zip",
           "url": "https://github.com/ps2build/sdk-world/releases/download/v2026.11.05/sdk-world-v2026.11.05-llvm.zip"
+        }
+      ]
+    },
+    "ogg": {
+      "tag": "v2026.11.11",
+      "assets": [
+        {
+          "name": "ogg-v2026.11.11-gcc.zip",
+          "url": "https://github.com/ps2build/ogg/releases/download/v2026.11.11/ogg-v2026.11.11-gcc.zip"
+        },
+        {
+          "name": "ogg-v2026.11.11-llvm.zip",
+          "url": "https://github.com/ps2build/ogg/releases/download/v2026.11.11/ogg-v2026.11.11-llvm.zip"
+        }
+      ]
+    },
+    "vorbis": {
+      "tag": "v2026.11.11",
+      "assets": [
+        {
+          "name": "vorbis-v2026.11.11-gcc.zip",
+          "url": "https://github.com/ps2build/vorbis/releases/download/v2026.11.11/vorbis-v2026.11.11-gcc.zip"
+        },
+        {
+          "name": "vorbis-v2026.11.11-llvm.zip",
+          "url": "https://github.com/ps2build/vorbis/releases/download/v2026.11.11/vorbis-v2026.11.11-llvm.zip"
         }
       ]
     }
