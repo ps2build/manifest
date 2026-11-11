@@ -44,19 +44,19 @@
       ]
     },
     "llvm-toolchain": {
-      "tag": "v2026.11.05",
+      "tag": "v2026.11.11",
       "assets": [
         {
-          "name": "ps2-llvm-toolchain-2026.11.05-darwin-arm64.zip",
-          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.05/ps2-llvm-toolchain-2026.11.05-darwin-arm64.zip"
+          "name": "ps2-llvm-toolchain-2026.11.11-darwin-arm64.zip",
+          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.11/ps2-llvm-toolchain-2026.11.11-darwin-arm64.zip"
         },
         {
-          "name": "ps2-llvm-toolchain-2026.11.05-linux-amd64.zip",
-          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.05/ps2-llvm-toolchain-2026.11.05-linux-amd64.zip"
+          "name": "ps2-llvm-toolchain-2026.11.11-linux-amd64.zip",
+          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.11/ps2-llvm-toolchain-2026.11.11-linux-amd64.zip"
         },
         {
-          "name": "ps2-llvm-toolchain-2026.11.05-windows-amd64.zip",
-          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.05/ps2-llvm-toolchain-2026.11.05-windows-amd64.zip"
+          "name": "ps2-llvm-toolchain-2026.11.11-windows-amd64.zip",
+          "url": "https://github.com/ps2build/llvm-toolchain/releases/download/v2026.11.11/ps2-llvm-toolchain-2026.11.11-windows-amd64.zip"
         }
       ]
     },
