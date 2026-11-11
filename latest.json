@@ -2,27 +2,27 @@
   "version": 1,
   "components": {
     "ps2build": {
-      "tag": "v2026.11.10",
+      "tag": "v2026.11.11",
       "assets": [
         {
-          "name": "ps2build-v2026.11.10-darwin-amd64",
-          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.10/ps2build-v2026.11.10-darwin-amd64"
+          "name": "ps2build-v2026.11.11-darwin-amd64",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.11/ps2build-v2026.11.11-darwin-amd64"
         },
         {
-          "name": "ps2build-v2026.11.10-darwin-arm64",
-          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.10/ps2build-v2026.11.10-darwin-arm64"
+          "name": "ps2build-v2026.11.11-darwin-arm64",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.11/ps2build-v2026.11.11-darwin-arm64"
         },
         {
-          "name": "ps2build-v2026.11.10-linux-amd64",
-          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.10/ps2build-v2026.11.10-linux-amd64"
+          "name": "ps2build-v2026.11.11-linux-amd64",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.11/ps2build-v2026.11.11-linux-amd64"
         },
         {
-          "name": "ps2build-v2026.11.10-windows-amd64.exe",
-          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.10/ps2build-v2026.11.10-windows-amd64.exe"
+          "name": "ps2build-v2026.11.11-windows-amd64.exe",
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.11/ps2build-v2026.11.11-windows-amd64.exe"
         },
         {
           "name": "SHA256SUMS",
-          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.10/SHA256SUMS"
+          "url": "https://github.com/ps2build/ps2build/releases/download/v2026.11.11/SHA256SUMS"
         }
       ]
     },
